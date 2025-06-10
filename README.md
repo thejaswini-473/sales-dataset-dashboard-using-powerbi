@@ -78,7 +78,8 @@ Dataset used: `Sales Dataset.xlsx` (included in this repository)
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard Screenshot](Screenshot%202025-06-10%20082252.png)
+![image](https://github.com/user-attachments/assets/ebbffe7f-2f92-4d20-9504-d0c119b4eebe)
+
 
 ## 💼 Real-World Applications
 
